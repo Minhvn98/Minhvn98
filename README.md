@@ -1,4 +1,4 @@
-### Hi there 👋
+### Học IT nhưng không biết hack Facebook nhé 😄😄😄.
 
 <!--
 **Minhvn98/Minhvn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
