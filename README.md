@@ -1,12 +1,11 @@
-### Học IT nhưng không biết hack Facebook nhé 😄😄😄.
 Loser to Winner. <br>
 Coder to SE.
 
 ```javascript
-  const minhvn98 = {
+  const MINHVN98 = {
     name: 'Vũ Ngọc Minh',
     age: 22,
-    add: 'Thái Bình',
+    address: 'Thái Bình',
     techStack: ['Javascript', 'Vuejs', 'Nodejs',...] 
   }
 ```
