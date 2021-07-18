@@ -6,7 +6,8 @@ Coder to SE.
     name: 'Vũ Ngọc Minh',
     age: 22,
     address: 'Thái Bình',
-    techStack: ['Javascript', 'Vuejs', 'Nodejs',...] 
+    role: ['Fresher Frontend', 'Grammar Police'],
+    techStack: ['Javascript', 'Vuejs', 'Nodejs',...] ,
   }
 ```
 
