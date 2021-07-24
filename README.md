@@ -1,5 +1,5 @@
 Loser to Winner. <br>
-Coder to SE.
+Coder to Engineer.
 
 ```javascript
   const MINHVN98 = {
@@ -8,6 +8,7 @@ Coder to SE.
     address: 'Thái Bình',
     role: ['Fresher Frontend', 'Grammar Police'],
     techStack: ['Javascript', 'Vuejs', 'Nodejs',...] ,
+    ...
   }
 ```
 
