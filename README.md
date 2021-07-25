@@ -7,7 +7,8 @@ Coder to Engineer.
     age: 22,
     address: 'Thái Bình',
     role: ['Fresher Frontend', 'Grammar Police'],
-    techStack: ['Javascript', 'Vuejs', 'Nodejs',...] ,
+    programmingLanguages: ['Javascript', 'Golang', ...],
+    tech: ['Vuejs', 'Nodejs', 'ExpressJs', ...] ,
     ...
   }
 ```
