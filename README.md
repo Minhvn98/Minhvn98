@@ -6,8 +6,8 @@ Coder to Engineer.
     name: 'Vũ Ngọc Minh',
     age: 22,
     address: 'Thái Bình',
-    role: ['Fresher Frontend', 'Grammar Police'],
-    programmingLanguages: ['Javascript', 'Golang', ...],
+    role: ['Fresher Fullstack', 'Grammar Police'],
+    programmingLanguages: ['Javascript', 'Typescript', 'Golang', ...],
     tech: ['Vuejs', 'Nodejs', 'ExpressJs', ...] ,
     ...
   }
