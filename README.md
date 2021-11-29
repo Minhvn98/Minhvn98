@@ -4,11 +4,10 @@ Coder to Engineer.
 ```javascript
   const MINHVN98 = {
     name: 'Vũ Ngọc Minh',
-    age: 22,
+    age: 23,
     address: 'Thái Bình',
-    role: ['Fresher Fullstack', 'Grammar Police'],
-    programmingLanguages: ['Javascript', 'Typescript', 'Golang', ...],
-    tech: ['Vuejs', 'Nodejs', 'ExpressJs', ...] ,
+    roles: ['Developer', 'Grammar Police'],
+    programmingLanguages: ['Javascript', 'Golang', 'PHP', 'Python', ...],
     ...
   }
 ```
